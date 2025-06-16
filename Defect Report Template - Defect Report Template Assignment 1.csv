@@ -1,0 +1,84 @@
+Defect Id,Title,Date Reported,Priority,Status,Type of Defect,Severity,Environment,Detailed Description,Step to Reproduce,Actual Results,Expected Results,Frequency,Screenshots,Videos(Video Links),Logs,Comments/Notes
+1,,6/16/2025,High,Open,Functional,Critical,Sauce Demo,"The checkout form fails to process user input correctly, preventing users from completing their purchases.
+","- Steps to Reproduce:
+- Log in with provided credentials.
+- Add any item to the cart.
+- Proceed to checkout.
+- Enter required information and attempt to complete the purchase.
+
+","Checkout form remains unresponsive or shows errors, preventing transactions.",Users should be able to enter their details and complete their purchase without issue.,Always,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],"This defect severely impacts user experience, making transactions impossible."
+2,,6/16/2025,Medium,Open,Functional,Major,Sauce Demo,"Clicking on the ""About"" page link results in a 404 error, meaning users cannot access company information.","- Navigate to the homepage.
+- Click on the ""About"" page link.
+
+",Page does not exist and returns a 404 error.,The page should display relevant company details or redirect properly.,Always,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],"This defect impacts credibility and accessibility, affecting user trust in the site."
+3,,6/16/2025,Medium,Open,Visual,Major,Sauce Demo,"All product images are identical and do not match the listed products, causing confusion.","- Navigate to the products page.
+- Observe product listings and corresponding images.
+",Every item displays the same incorrect image.,Each product should have a unique and representative image.,Always,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],"This issue affects usability and visual clarity, making it difficult for users to shop accurately."
+4,,,,,,Minor,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+5,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+6,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+7,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+8,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+9,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+10,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+11,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+12,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+13,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+14,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+15,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+16,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+17,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+18,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+19,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
+20,,,,,,,Sauce Demo,[Detailed Description of the Defect],"[First Step]
+[Second Step]
+[...]
+",[What Actually Happened -One sentence description-],[What Should Happen Without the Defect],,,[Attach or Link to Video Evidence if Applicable],[Attach or Link to Relevant Logs if Available],[Any Additional Comments or Observations]
